@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "name": "Server Name",
+        "version": "1.0",
+        "host": "Server URL / IP",
+        "port": 0
+    }
+]
